@@ -10,7 +10,7 @@ Python >= 3.11
 Conda
 Poetry
 
-git clone https://github.com/DIONISISPX/nlp2025.git
+git clone https://github.com/georgemam/NLP.git
 cd nlp
 conda create -n nlp python=3.11
 conda activate nlp
